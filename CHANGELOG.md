@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.3.8.fip-3
+
+Fix release.
+
 ## 2.3.8.fip-2
 
 Add support for saving original token during tokenizing to support case-sensitve exact matching.

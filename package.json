@@ -1,17 +1,15 @@
 {
-  "name": "@acimfip/lunr",
+  "name": "@fex80/lunr",
   "description": "Adapted from lunrjs.com. Simple full-text search.",
-  "version": "2.3.8-fip.2",
+  "version": "2.3.8-fip.3",
   "author": "Felix Alcala",
-  "keywords": [
-    "search"
-  ],
+  "keywords": ["search"],
   "main": "lunr.js",
   "license": "MIT",
   "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/acimfip/lunr.js"
+    "url": "https://github.com/fex80/lunr.js"
   },
   "devDependencies": {
     "benchmark": "2.1.x",
