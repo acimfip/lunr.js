@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.3.8.fip-4
+
+Fix release with Makefile and release script.
+
 ## 2.3.8.fip-3
 
 Fix release.
