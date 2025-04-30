@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.3.8.fip-2
+
+Add support for saving original token during tokenizing to support case-sensitve exact matching.
+
 ## 2.3.8.fip-1
 
 Move repo under ACIM FIP.
